@@ -20,7 +20,7 @@ function runSwitch(sequence, repeats) {
             
         }
     }
-    return totalTrue, arr
+    return totalTrue
 }
 
 console.log(runSwitch(5, 0)) // 0
